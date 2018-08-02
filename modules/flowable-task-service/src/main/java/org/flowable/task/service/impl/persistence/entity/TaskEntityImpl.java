@@ -89,7 +89,6 @@ public class TaskEntityImpl extends VariableScopeImpl implements TaskEntity, Cou
     protected String taskDefinitionKey;
     protected String formKey;
 
-    protected boolean isDeleted;
     protected boolean isCanceled;
 
     private boolean isCountEnabled;
